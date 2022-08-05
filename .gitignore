@@ -1,3 +1,10 @@
+/dataset/
+/metastore_db/
+/dataset/parquet/
+derby.log
+workspace.code-workspace
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
